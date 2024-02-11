@@ -1,0 +1,99 @@
+body {
+    background-color:rgba(235, 229, 221, 0.582);
+    font-family: 'PT Sans', sans-serif;
+    margin: 0 10%
+}
+
+h2 {
+
+}
+
+.container {
+  border: 2px solid #a2a2a6;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.color-container {
+  width: 100%
+}
+
+.color-panel {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height 100px;
+}
+
+.dark-teal {
+  background-color: #00d9dc;
+  color: #000;
+}
+
+.light-teal {
+  background-color: #00f1f4;
+  color: #000;
+}
+
+.gun-gray {
+  background-color: #818589;
+  color: #000;
+}
+
+.eggshell {
+  background-color: #f0ead6;
+  color: #000;
+}
+
+.font-panel {
+  width: 45%;
+  display: inline-block;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-style: 700;
+}
+
+.merriweather{
+  font-family: 'Merriweather', sans-serif;
+}
+
+.pt-serif {
+  font-family: 'PT Serif', sans-serif;
+}
+
+.pt-sans {
+  font-family: 'PT Sans', Calibri;
+}
+
+.text-panel h1 {
+  font-weight: 700;
+  font-size: 30px;
+  font-family: 'Merriweather', sans-serif;
+}
+
+.text-panel h2 {
+  font-weight: bold;
+  font-size: 26px;
+  font-family: 'PT Sans', Calibri;
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: 18px;
+  font-family: 'PT Sans', Calibri;
+}
